@@ -6,7 +6,8 @@ Le Jeu est fait pour fonctionner UNIQUEMENT avec Windows
 
 Le code source pour le menu, le mode 1 joueur et le mode 2 joueur est situé dans le fichier "Code source".
 
-Le Compte-rendu en format PDF est également présent dans le rendu.
+
+
 
 COMMANDES :
 
